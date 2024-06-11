@@ -8,3 +8,4 @@ console.log(20 % 3);
 // strings
 console.log("Hola soy un string");
 console.log('Hola soy un "string con comillas" y asi es ');
+console.log("Esta es una " + "concatenacion");

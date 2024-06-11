@@ -9,14 +9,14 @@ console.log(20 % 3);
 console.log("Hola soy un string");
 console.log('Hola soy un "string con comillas" y asi es ');
 console.log("Esta es una " + "concatenacion");
-
 console.log(`esta es una 
 plantilla literal. 
 esta aparece en 
 varias lineas gracias a
 los acentos graves`);
-
 console.log(`la plantilla literal me ayuda con incrustaciones con el simbolo de dinero
 a continuacion viene una suma
 ${10 + 5}
 `);
+
+// variables y tipos de variables

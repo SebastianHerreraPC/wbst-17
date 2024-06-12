@@ -23,5 +23,12 @@ ${10 + 5}
 
 let variableuno = "Variable uno";
 
-let multiplicaciondospordos = 2 * 2;
-console.log(multiplicaciondospordos);
+let farenheit = "451";
+console.log(farenheit);
+
+let celsius = (farenheit - 32) / 1.8;
+console.log(celsius);
+
+console.log(
+  `${farenheit} grados farenheit es igual a ${celsius} grados celsius `
+);

@@ -22,3 +22,6 @@ ${10 + 5}
 // variables y tipos de variables
 
 let variableuno = "Variable uno";
+
+let multiplicaciondospordos = 2 * 2;
+console.log(multiplicaciondospordos);
